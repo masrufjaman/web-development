@@ -1,0 +1,18 @@
+HTML is the foundation of all websites.
+HTML = HyperText Markup Language
+**websites: codepen.io
+
+Tag start with Angular Brackets < > & end with Angular Brackets with a forward slash </ >. And in the middle is the type of element or the type of tag.
+
+**websites: heading html mdn
+**websites: w3 schools html heading
+**websites: devdocs.io
+
+Line Break: <br> - doesn't require an open and a closed tag.
+
+<!-- CODE -->
+<h1>The Adventures of <br />Sherlock Holmes</h1>
+<br />
+<h3>by</h3>
+<br />
+<h2>Arthur Conan Doyle</h2>
