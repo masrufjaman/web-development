@@ -29,3 +29,6 @@ Short: html + enter
 
 <!-- Image -->
 <img src="" alt="">
+
+<!-- Link -->
+<a href="https://...">Text</a>
