@@ -1,0 +1,22 @@
+<h1>Hello World!</h1>
+<h1>: Start tag / opening tag
+</h1>: End tag / closing tag
+in between these tag is the content. Here, Hello World is the content.
+
+<br> - Self-closing tag
+
+<hr> also self-closing
+<hr size="3">
+hr: HTML element
+size="3": HTML Attribute - gives more infromation to the browser to specify modifications to that HTML element. It comes after the main HTML element and is separeted from the element by a single space.
+
+<!-- CODE -->
+<center>
+  <hr size="3" noshade />
+  <h1>The Adventures of <br />Sherlock Holmes</h1>
+  <br />
+  <h3>by</h3>
+  <br />
+  <h2>Arthur Conan Doyle</h2>
+  <hr size="3" noshade />
+</center>
