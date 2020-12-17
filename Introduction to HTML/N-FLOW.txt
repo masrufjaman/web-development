@@ -1,4 +1,3 @@
-<!-- N2 -->
 <!-- Heading levels -->
 <h1>Heading level 1</h1>
 <h2>Heading level 2</h2>
@@ -13,7 +12,6 @@
 <!-- For a horizontal rule or line -->
 <hr>
 
-<!-- N4 -->
 <!-- To declare the document type -->
 <!DOCTYPE html>
 Short: html + enter
@@ -28,3 +26,6 @@ Short: html + enter
 <li></li>
 <ul></ul> - unordered list
 <ol type="" start=""></ol> - ordered list, NO type & custom start attribute
+
+<!-- Image -->
+<img src="" alt="">

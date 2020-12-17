@@ -1,3 +1,4 @@
+<!-- CODE -->
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
@@ -25,3 +26,9 @@
 </body>
 
 </html>
+
+
+<img src="" alt=""> - self closing tag
+by link or local path
+
+**website: crop-circle.imageonline.co
