@@ -17,3 +17,9 @@
 <!-- To declare the document type -->
 <!DOCTYPE html>
 Short: html + enter
+
+<!-- To italicize -->
+<em>
+
+<!-- To bold -->
+<strong>
