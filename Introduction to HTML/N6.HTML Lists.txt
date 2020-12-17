@@ -1,3 +1,4 @@
+<!-- CODE -->
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
@@ -24,3 +25,26 @@
 </body>
 
 </html>
+
+<ul></ul> - represent an unordered list
+<ul>
+  <li>first item</li>
+  <li>second item</li>
+  <li>third item</li>
+</ul>
+
+<ol></ol> - represents an ordered list of items
+<ol type="i">
+  <li>Introduction</li>
+  <li>List of Greivances</li>
+  <li>Conclusion</li>
+</ol>
+
+<li></li> - to represent an item in a list
+
+This character attribute indicates the numbering type:
+a: lowercase letters
+A: uppercase letters
+i: lowercase Roman numerals
+I: uppercase Roman numerals
+1: numbers

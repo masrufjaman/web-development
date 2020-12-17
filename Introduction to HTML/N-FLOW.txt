@@ -23,3 +23,8 @@ Short: html + enter
 
 <!-- To bold -->
 <strong>
+
+<!-- List -->
+<li></li>
+<ul></ul> - unordered list
+<ol type="" start=""></ol> - ordered list, NO type & custom start attribute
