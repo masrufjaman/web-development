@@ -1,0 +1,45 @@
+Web Development Environment
+1.  Atom
+    - Packages
+    ->  atom-beautify
+    ->  atom-ternjs
+    ->  autoclose-html
+    ->  emmet
+    ->  csslint
+    ->  pigments
+    ->  language-ejs
+
+    -- Optional
+    ->  atom-html-preview
+    ->  Sublime-Style-Column-Selection
+    ->  linter-eslint
+2.  VS Code
+
+**website: docs.emmet.io/cheat-sheet
+
+<!-- CODE -->
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    - title of the document
+  </head>
+  <body>
+
+  </body>
+</html>
+
+
+<!DOCTYPE html> - we declare the document type
+<html lang="en" dir="ltr"> - between opening & closing tag all are html code & the code consist of a head & a body.
+<meta charset="utf-8">
+Some meta tag
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Free Web tutorials">**
+  <meta name="keywords" content="HTML, CSS, JavaScript">
+  <meta name="author" content="John Doe">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+REF:https://www.w3schools.com/tags/tag_meta.asp

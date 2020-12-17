@@ -13,3 +13,7 @@
 <!-- For a horizontal rule or line -->
 <hr>
 
+<!-- N4 -->
+<!-- To declare the document type -->
+<!DOCTYPE html>
+Short: html + enter
